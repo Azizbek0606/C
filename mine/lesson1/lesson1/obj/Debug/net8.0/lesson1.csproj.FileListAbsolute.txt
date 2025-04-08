@@ -1,0 +1,15 @@
+E:\praktikum gitHub\C\mine\lesson1\lesson1\bin\Debug\net8.0\lesson1.exe
+E:\praktikum gitHub\C\mine\lesson1\lesson1\bin\Debug\net8.0\lesson1.deps.json
+E:\praktikum gitHub\C\mine\lesson1\lesson1\bin\Debug\net8.0\lesson1.runtimeconfig.json
+E:\praktikum gitHub\C\mine\lesson1\lesson1\bin\Debug\net8.0\lesson1.dll
+E:\praktikum gitHub\C\mine\lesson1\lesson1\bin\Debug\net8.0\lesson1.pdb
+E:\praktikum gitHub\C\mine\lesson1\lesson1\obj\Debug\net8.0\lesson1.GeneratedMSBuildEditorConfig.editorconfig
+E:\praktikum gitHub\C\mine\lesson1\lesson1\obj\Debug\net8.0\lesson1.AssemblyInfoInputs.cache
+E:\praktikum gitHub\C\mine\lesson1\lesson1\obj\Debug\net8.0\lesson1.AssemblyInfo.cs
+E:\praktikum gitHub\C\mine\lesson1\lesson1\obj\Debug\net8.0\lesson1.csproj.CoreCompileInputs.cache
+E:\praktikum gitHub\C\mine\lesson1\lesson1\obj\Debug\net8.0\lesson1.sourcelink.json
+E:\praktikum gitHub\C\mine\lesson1\lesson1\obj\Debug\net8.0\lesson1.dll
+E:\praktikum gitHub\C\mine\lesson1\lesson1\obj\Debug\net8.0\refint\lesson1.dll
+E:\praktikum gitHub\C\mine\lesson1\lesson1\obj\Debug\net8.0\lesson1.pdb
+E:\praktikum gitHub\C\mine\lesson1\lesson1\obj\Debug\net8.0\lesson1.genruntimeconfig.cache
+E:\praktikum gitHub\C\mine\lesson1\lesson1\obj\Debug\net8.0\ref\lesson1.dll

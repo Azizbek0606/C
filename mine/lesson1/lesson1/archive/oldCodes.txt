@@ -1,0 +1,119 @@
+﻿//await DoSomthing();
+//String name = "lesson";
+//int age = 1;
+//double weight = 1.0;
+//bool isTrue = true;
+//char letter = 'A';
+//Console.WriteLine("Hello World");
+//Console.WriteLine("My name is " + name);
+//Console.WriteLine("My age is " + age);
+//Console.WriteLine("My weight is " + weight);
+//Console.WriteLine("My isTrue is " + isTrue);
+//Console.WriteLine("My letter is " + letter);
+//Console.WriteLine("My name is {0}, my age is {1}, my weight is {2}, my isTrue is {3}, my letter is {4}", name, age, weight, isTrue, letter);
+
+//List<String> names = new List<String>();
+//Console.WriteLine(names);
+//names.Add("first");
+//names.Add("second");
+//names.Add("third");
+//names.Add("fourth");
+//names.Add("fifth");
+//names.Add("sixth");
+//names.Add("seventh");
+//Console.WriteLine("names: ");
+//Console.WriteLine(names);
+//foreach (String name in names)
+//{
+//    Console.WriteLine(name);
+//}
+
+//int age = 75;
+//if (age < 40)
+//{
+//    Console.WriteLine("You are young");
+//}
+//else if (age < 60)
+//{
+//    Console.WriteLine("You are middle aged");
+//}
+//else
+//{
+//    Console.WriteLine("You are old");
+//}
+
+//List<String> names = new List<String>();
+//var newValue = names.LongCount();
+//Console.WriteLine(newValue);
+//names.Add("first");
+//names.Add("second");
+//names.Add("third");
+//names.Add("Azizbek");
+//names.Add("MAJOR");
+//names.Add("KURO");
+//newValue = names.LongCount();
+//Console.WriteLine(newValue + 8);
+//foreach (String name in names)
+//{
+//    if (name == "Azizbek")
+//    {
+//        Console.WriteLine("Azizbek is here");
+//    }
+//    else if (name == "MAJOR")
+//    {
+//        Console.WriteLine("MAJOR is here");
+//    }
+//    else
+//    {
+//        Console.WriteLine(name);
+//    }
+//}
+
+//lorem("12");
+
+
+
+
+//static void lorem(string value)
+//{
+//    Console.WriteLine("kalochchi ishladi" + value);
+//}
+//static async Task DoSomthing()
+//        {
+//            Console.WriteLine("DoSomthing");
+//            await Task.Delay(5000);
+//            Console.WriteLine("Function has finished successfuly");
+//        }
+
+
+
+
+// task from GPT sort list 😁
+
+//Console.WriteLine("Sonlar ro'yxatini kiriting taxminan quyidagicha\n1 2 3 4 5 6 7 8 9 10"); 
+//string input = Console.ReadLine();
+//string[] parts = input.Split(' ');
+//List<int> numbers = new List<int>();
+//List<int> evenNumbers = new List<int>();
+//foreach (string number in parts)
+//{
+//    if (int.Parse(number) % 2 != 0)
+//    {
+//        numbers.Add(int.Parse(number));
+//    }
+//    else
+//    {
+//        int evenNumber = int.Parse(number) * int.Parse(number);
+//        evenNumbers.Add(evenNumber);
+//    }
+//}
+//Console.WriteLine("toq sonlar ro'yxati: ");
+//foreach (int number in numbers)
+//{
+//    Console.WriteLine(number);
+//}
+//Console.WriteLine("juft sonlarning kvadrati ro'yxati: ");
+//foreach (int number in evenNumbers)
+//{
+//    Console.WriteLine(number);
+//}
