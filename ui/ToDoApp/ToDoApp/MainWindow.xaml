@@ -1,0 +1,61 @@
+﻿<Window x:Class="ToDoApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ToDoApp"
+        mc:Ignorable="d"
+        Height="500" 
+        Width="400"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None"
+        Background="Transparent"
+        BorderThickness="0"
+        AllowsTransparency="True"
+        ResizeMode="NoResize">
+    <Window.Resources>
+        <ControlTemplate x:Key="AddNewToDoButton" TargetType="{x:Type Button}">
+            <Border Background="#74BCFC" CornerRadius="30" Height="70" Width="180">
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </Border>
+        </ControlTemplate>
+    </Window.Resources>
+
+    <Border CornerRadius="42">
+        <Border.Background>
+            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                <GradientStop Color="#BCBCFC" Offset="0"/>
+                <GradientStop Color="#F2D4E9" Offset="1"/>
+            </LinearGradientBrush>
+        </Border.Background>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="4*"/>
+            </Grid.RowDefinitions>
+            <Button Template="{DynamicResource AddNewToDoButton}" Content="Add New ToDo" HorizontalAlignment="Right" Margin="0 0 15 0" Foreground="White" FontSize="18" FontWeight="Bold" FontFamily="roboto mono">
+            </Button>
+            <Border Grid.Row="1" CornerRadius="32" Background="#50ffffff" Padding="10" Margin="20" Height="350">
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <ItemsControl ItemsSource="{Binding Students}">
+                        <ItemsControl.ItemTemplate>
+                            <DataTemplate>
+                                <Border BorderBrush="LightGray" BorderThickness="1" CornerRadius="10" Margin="5" Padding="8">
+                                    <StackPanel>
+                                        <TextBlock FontWeight="Bold" FontSize="14" Text="{Binding FirstName}" />
+                                        <TextBlock Text="{Binding LastName}" />
+                                        <TextBlock Text="{Binding Age}" />
+                                        <TextBlock Text="{Binding Faculty}" />
+                                        <TextBlock Text="{Binding Gender}" />
+                                    </StackPanel>
+                                </Border>
+                            </DataTemplate>
+                        </ItemsControl.ItemTemplate>
+                    </ItemsControl>
+                </ScrollViewer>
+            </Border>
+
+        </Grid>
+    </Border>
+
+</Window>

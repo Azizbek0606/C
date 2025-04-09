@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\praktikum gitHub\\C\\ui\\ToDoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16A0BF82-D988-4238-A1A1-95CE3B6BA9DF}|ToDoApp\\ToDoApp.csproj|e:\\praktikum github\\c\\ui\\todoapp\\todoapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{16A0BF82-D988-4238-A1A1-95CE3B6BA9DF}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A0BF82-D988-4238-A1A1-95CE3B6BA9DF}|ToDoApp\\ToDoApp.csproj|e:\\praktikum github\\c\\ui\\todoapp\\todoapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A0BF82-D988-4238-A1A1-95CE3B6BA9DF}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\praktikum gitHub\\C\\ui\\ToDoApp\\ToDoApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ToDoApp\\MainWindow.xaml",
+              "ToolTip": "E:\\praktikum gitHub\\C\\ui\\ToDoApp\\ToDoApp\\MainWindow.xaml",
+              "RelativeToolTip": "ToDoApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T13:42:13.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\praktikum gitHub\\C\\ui\\ToDoApp\\ToDoApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\praktikum gitHub\\C\\ui\\ToDoApp\\ToDoApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ToDoApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwDAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:41:58.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

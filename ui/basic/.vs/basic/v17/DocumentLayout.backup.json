@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\praktikum gitHub\\C\\ui\\basic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F156C29-3C90-4188-81C5-51D3B9833C1B}|basic\\basic.csproj|e:\\praktikum github\\c\\ui\\basic\\basic\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5F156C29-3C90-4188-81C5-51D3B9833C1B}|basic\\basic.csproj|solutionrelative:basic\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F156C29-3C90-4188-81C5-51D3B9833C1B}|basic\\basic.csproj|e:\\praktikum github\\c\\ui\\basic\\basic\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F156C29-3C90-4188-81C5-51D3B9833C1B}|basic\\basic.csproj|solutionrelative:basic\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\praktikum gitHub\\C\\ui\\basic\\basic\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "basic\\MainWindow.xaml",
+              "ToolTip": "E:\\praktikum gitHub\\C\\ui\\basic\\basic\\MainWindow.xaml*",
+              "RelativeToolTip": "basic\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T05:39:10.391Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\praktikum gitHub\\C\\ui\\basic\\basic\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "basic\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\praktikum gitHub\\C\\ui\\basic\\basic\\MainWindow.xaml.cs",
+              "RelativeToolTip": "basic\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T05:38:49.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
